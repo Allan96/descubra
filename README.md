@@ -7,7 +7,7 @@ Descubra é uma plataforma de literatura, onde incentiva o publico a ler livros 
 [DESCUBRA](http://descubra.github.io)
 
 
-Designer feito por Valéria
-Programado por Allan.
+### Design realizado por Valéria
+### Programado por Allan Souza.
 
 Todos os direitos reservados!
